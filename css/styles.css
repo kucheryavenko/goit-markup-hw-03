@@ -227,6 +227,8 @@ img {
 }
 
 .feature-item {
+  min-width: 270px;
+
   /* outline: 1px solid tomato; */
 }
 
